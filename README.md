@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyvelTS&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyvelTS&theme=light" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RyvelTS&theme=light" />
 <!--
 **RyvelTS/RyvelTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
