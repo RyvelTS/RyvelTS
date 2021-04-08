@@ -1,5 +1,5 @@
 ### Hi there, I'm Ryvel. Welcome to my Github 👋
-I’m software engineering undergraduate student who is eager to learn new things, as well as, very enthusiastic to overcome obstacles. Most of the projects that i have done, are school projects. Like, simple android applications and websites. Personally, i really enjoy to become a front-end developer, since, i followed my passion in a core of UI designing and prototyping
+I’m software engineering undergraduate student who is eager to learn new things, as well as, very enthusiastic to overcome obstacles. Most of the projects that i have done, are school projects. Like, simple android applications and websites. Personally, i really enjoy to become a front-end developer, since, i followed my passion in a core of UI designing and prototyping.
 
 ## &#x1f4c8; My Journey in Github
 
