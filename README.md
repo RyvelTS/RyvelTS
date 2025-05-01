@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  ![banner](https://github.com/RyvelTS/RyvelTS/blob/master/banner.gif)
+  <img src="https://github.com/RyvelTS/RyvelTS/blob/master/banner.gif" width="640" height="100%" alt="Ryvel Timothy Stamber Banner"/>
 </p>
 <p align="center">
   <b>Master's Student in Software Engineering | Full-Stack Developer | UI/UX Enthusiast</b>
