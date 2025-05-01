@@ -26,7 +26,6 @@
 ## 🚀 Professional Experience
 
 - **Team Lead, The Big Rich Group (Jakarta, Indonesia)**
-- **Team Lead, The Big Rich Group (Jakarta, Indonesia)**
   Feb 2022 – Feb 2024
   Led web and mobile app development using Laravel, Vue, Angular, and Ionic. Mentored developers, implemented Agile practices, and integrated emerging technologies.
 - **Junior Developer, i2C Studio**
