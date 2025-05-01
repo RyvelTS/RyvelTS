@@ -104,17 +104,6 @@ Check out my portfolio for more about me, my projects, and highlights:
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyvelTS&layout=compact&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyvelTS&layout=compact" alt="Top Languages" style="max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyvelTS&layout=compact" alt="Top Languages" style="max-width: 100%; border: none;" />
   </picture>
 </div>
-
-<style>
-@media (min-width: 768px) {
-  div[align="center"] picture {
-    display: inline-block;
-    vertical-align: top;
-    margin: 0 10px;
-  }
-}
-</style>
-
