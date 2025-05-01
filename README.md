@@ -1,11 +1,31 @@
-### Hi there, I'm Ryvel Timothy Stamber 👋
+<h1 align="center">Welcome to My GitHub</h1><p align="center">Showcasing My Projects, Experience, and Innovation in Software Engineering</p>
 
-I am a proactive, adaptable professional passionate about continuous learning and overcoming challenges. I deliver quality work through creative thinking and high standards. My expertise spans web development, software engineering, UI/UX design, and full-stack development. I am committed to delivering high-quality solutions through creativity and technical expertise.
+---
+
+<p align="center">
+  <img src="banner.gif" width="100%" alt="Ryvel Timothy Stamber Banner"/>
+</p>
+<p align="center">
+  <b>Master's Student in Software Engineering | Full-Stack Developer | UI/UX Enthusiast</b>
+</p>
+<p align="center">
+  🚀 Passionate about building creative, high-quality web and software solutions.<br/>
+  🌏 Currently based in Chengdu, China 🇨🇳 | Originally from Indonesia 🇮🇩<br/>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryvel-stamber" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://rts-voyage.web.app/about" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio Website"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 Professional Experience
 
+- **Team Lead, The Big Rich Group (Jakarta, Indonesia)**
 - **Team Lead, The Big Rich Group (Jakarta, Indonesia)**
   Feb 2022 – Feb 2024
   Led web and mobile app development using Laravel, Vue, Angular, and Ionic. Mentored developers, implemented Agile practices, and integrated emerging technologies.
