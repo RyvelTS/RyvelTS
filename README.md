@@ -91,9 +91,17 @@ Check out my portfolio for more about me, my projects, and highlights:
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
-- **Soft Skills:** Leadership, problem-solving, project management, communication
-- **Achievements:** Designed and developed event websites (MSI Youtuber Academy, Virtual Olympic, IEF Youth Camp) using Figma, Laravel, HTML, CSS, and JavaScript
-- **Professional Experience:** 2 yrs 9 mo | Organizational Roles: 4 yrs 9 mo | Project Work: 6 mo
+### Soft Skills
+- Leadership
+- Problem-solving
+- Project management
+- Communication
+
+### Notable Projects
+- Designed and developed event websites such as MSI Youtuber Academy, Virtual Olympic, and IEF Youth Camp using Figma, Laravel, HTML, CSS, and JavaScript.
+
+### Professional Experience
+- 2 yrs 9 mo | Organizational Roles: 4 yrs 9 mo | Project Work: 6 mo
 
 ---
 
