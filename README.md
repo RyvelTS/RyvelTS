@@ -26,13 +26,13 @@
 ## 🚀 Professional Experience
 
 - **Team Lead, The Big Rich Group (Jakarta, Indonesia)**
-  Feb 2022 – Feb 2024
+  Sep 2022 – Feb 2024
   Led web and mobile app development using Laravel, Vue, Angular, and Ionic. Mentored developers, implemented Agile practices, and integrated emerging technologies.
 - **Junior Developer, i2C Studio**
-  Nov 2020 – Feb 2022
+  Jul 2021 – Sep 2022
   Contributed to web applications using Laravel 8 and jQuery. Maintained code quality and met deadlines in a fast-paced startup environment.
 - **Front-end Developer Intern, Kamar Pelajar**
-  Jun 2020 – Nov 2020
+  Aug 2020 - Dec 2020
   Created UI prototypes and implemented Bootstrap 4 templates with Laravel, enhancing user experience for an accommodation service platform.
 
 ---
