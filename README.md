@@ -17,79 +17,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://rts-voyage.web.app/about" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Professional Experience
-
-- **Team Lead, The Big Rich Group (Jakarta, Indonesia)**
-  Sep 2022 – Feb 2024
-  Led web and mobile app development using Laravel, Vue, Angular, and Ionic. Mentored developers, implemented Agile practices, and integrated emerging technologies.
-- **Junior Developer, i2C Studio**
-  Jul 2021 – Sep 2022
-  Contributed to web applications using Laravel 8 and jQuery. Maintained code quality and met deadlines in a fast-paced startup environment.
-- **Front-end Developer Intern, Kamar Pelajar**
-  Aug 2020 - Dec 2020
-  Created UI prototypes and implemented Bootstrap 4 templates with Laravel, enhancing user experience for an accommodation service platform.
-
----
-
-## 🎓 Education
-
-- **MSc in Software Engineering (in progress)**
-  University of Electronic Science and Technology of China (UESTC), Chengdu, China
-  Focus: LLM research
-- **BSc in Software Engineering**
-  Southwest Petroleum University, Chengdu, China
-  GPA: 4.25/5.00 | Sichuan Provincial Government Scholarship | 2nd place Chinese Classic Recitation Competition
-- **High School Diploma, Natural Science**
-  SMA Santo Aloysius 1
-  Stock Simulation Competition, strong communication and analytical skills
-- **Junior High School**
-  SMPK 5 BPK PENABUR
-  1st place in national robotics championships, leadership and international competitions
-
----
-
-## 🏆 Organizational Experience
-
-- **Coordinator, Communication and Media Division**
-  Perhimpunan Pelajar Indonesia Tiongkok (3 yrs)
-  Designed 50+ social media posters, edited videos, developed a WordPress website with custom Bootstrap theme. Recognized as 'The Most Active Member' and 'The Best Coordinator'.
-- **Student Council (OSIS SMP)**
-  Managed school blog, multimedia, and event organization. Fostered student development and leadership.
-
----
-
-## 🌐 Portfolio
-
-Check out my portfolio for more about me, my projects, and highlights:
-[https://rts-voyage.web.app/about](https://rts-voyage.web.app/about)
-
----
-
-## 💡 Skills & Achievements
-
-### Programming Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RyvelTS&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
+
+---
+
+# 💻 Tech Stack & Skills:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Soft Skills
 - Leadership
@@ -100,37 +41,30 @@ Check out my portfolio for more about me, my projects, and highlights:
 ### Notable Projects
 - Designed and developed event websites such as MSI Youtuber Academy, Virtual Olympic, and IEF Youth Camp using Figma, Laravel, HTML, CSS, and JavaScript.
 
-### Professional Experience
-- 2 yrs 9 mo | Organizational Roles: 4 yrs 9 mo | Project Work: 6 mo
-
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [www.linkedin.com/in/ryvel-stamber](https://www.linkedin.com/in/ryvel-stamber)
+<p>
+  <a href="https://www.linkedin.com/in/ryvel-stamber" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/ryvel_ts/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 - For pricing inquiries regarding my services, please contact me directly.
 
 ---
 
-## 📊 GitHub Stats
-
+# 📊 GitHub Stats:
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=RyvelTS&show_icons=true&hide_border=true&theme=dark"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=RyvelTS&show_icons=true&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=RyvelTS&show_icons=true&hide_border=true" alt="Ryvel's GitHub Stats" style="max-width: 100%;" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyvelTS&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RyvelTS&layout=compact&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyvelTS&layout=compact" alt="Top Languages" style="max-width: 100%; border: none;" />
-  </picture>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=RyvelTS&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1 1 300px; max-width: 48%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyvelTS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1 1 300px; max-width: 48%;"/>
+  </div>
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RyvelTS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
